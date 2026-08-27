@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+  
+    --color-brand-primary: #F3C9A7;
+    --color-brand-secondary: #D8AF8A; 
+ 
+    --color-bg-dashboard: #F5F5F5;
+    --color-bg-active: rgba(244, 162, 89, 0.25);
+    --color-bg-hover: rgba(244, 162, 89, 0.20);
+
+    --color-text-main: #3C3D42;
+
+    --color-status-error: #D95F5F; 
+  }
+  body {
+    @apply m-0 text-[2rem] h-[100dvh] sm:text-base bg-gray-100;
+  }
+  #root {
+    @apply h-[100dvh];
+  }
+}
