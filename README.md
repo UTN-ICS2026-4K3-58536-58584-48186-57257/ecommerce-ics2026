@@ -1,14 +1,7 @@
+# E-commerce ICS 2026 - Comision 4K3
 
-# DSW2025 - Trabajo Práctico Integrador
-
-
-👥 Integrantes
-
-Legajo	   Nombre Completo	          Correo Electrónico
-58156	     Agüero Aylen	              Aylen.Aguero@alu.frt.utn.edu.ar
-58584	     Quintero Paulina Rocio	    Paulina.Quintero@alu.frt.utn.edu.ar
-57785	     Villafañe Lucas Ignacio	  Lucas.Villafane@alu.frt.utn.edu.ar
-
+Integrantes: 
+Fernandez, Jose Agustin - Iturre, Horacio Martin - Quintero, Paulina Rocio - Vides Gimenez, Ramiro 
 
 ⚙️ Instrucciones para configurar y ejecutar el proyecto ⚙️
 
@@ -21,8 +14,8 @@ Legajo	   Nombre Completo	          Correo Electrónico
 📦 Clonar el Repositorio
 
 ```bash
-git clone https://github.com/PauRQuintero/Dsw2025TPI
-cd Dsw2025TPI
+git clone https://github.com/UTN-ICS2026-4K3-58536-58584-48186-57257/ecommerce-ics2026-backend
+cd ecommerce-ics2026-backend
 ```
 
 ⚙️ Configuración de Base de Datos
