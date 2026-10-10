@@ -133,11 +133,10 @@ public class Program
 
         app.UseMiddleware<ErrorHandlingMiddleware>();
 
-        if (app.Environment.IsDevelopment())
-        {
+        
             app.UseSwagger();
             app.UseSwaggerUI();
-        }
+        
 
         app.UseHttpsRedirection();
         app.UseCors(MyAllowSpecificOrigins);
